@@ -1,4 +1,5 @@
-# Cafe-Empat-a-Realidad-  <!DOCTYPE html>
+
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -33,10 +34,9 @@
 
         <!-- Tarjeta de Ejemplo de Perfil Real -->
         <div class="bg-[#2A2421] border border-[#3E3530] rounded-2xl p-5 flex items-center space-x-4 shadow-xl">
-            <!-- Foto de Perfil Real (Simulada con imagen) -->
+            <!-- Foto de Perfil Real -->
             <div class="relative">
                 <div class="w-16 h-16 rounded-full overflow-hidden border-2 border-[#D4A373] bg-[#1E1917]">
-                    <!-- Aquí irá la foto real del usuario -->
                     <img src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80" alt="Foto real" class="w-full h-full object-cover">
                 </div>
                 <div class="absolute bottom-0 right-0 w-4 h-4 rounded-full bg-emerald-500 border-2 border-[#2A2421]" title="En línea"></div>
